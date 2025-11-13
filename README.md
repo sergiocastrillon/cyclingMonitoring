@@ -1,6 +1,6 @@
 # Sistema de monitorización ciclista
 
-Este repositorio contiene el codigo desarrollado para mi Trabajo de Fin de Grado, que consiste en un sistema de monitorización para ciclista que permite medir diversos parámetros relevantes de este deporte. El sistema está compuesto por un microcontrolador ESP32, que controla los sensores usados por el sistema, y por una aplicacion movil que recibe los datos del microcontrolador por BLE.
+Este repositorio contiene el codigo desarrollado para mi Trabajo de Fin de Grado, que consiste en un sistema de monitorización iclista que permite medir diversos parámetros relevantes de este deporte. El sistema está compuesto por un microcontrolador ESP32, que controla los sensores usados por el sistema, y por una aplicacion movil que recibe los datos del microcontrolador por BLE.
 
 ## Estructura
 La raiz del proyecto dispone de dos directorios:
