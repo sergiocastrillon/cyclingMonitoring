@@ -1,11 +1,11 @@
 # Sistema de monitorización ciclista
 
-Este repositorio contiene el codigo desarrollado para mi Trabajo de Fin de Grado, que consiste en un sistema de monitorización ciclista que permite medir diversos parámetros relevantes de este deporte. El sistema está compuesto por un microcontrolador ESP32, que controla los sensores usados por el sistema, y por una aplicacion movil que recibe los datos del microcontrolador por BLE.
+Este repositorio contiene el código desarrollado para mi Trabajo de Fin de Grado, que consiste en un sistema de monitorización ciclista que permite medir diversos parámetros relevantes de este deporte. El sistema está compuesto por un microcontrolador ESP32, que controla los sensores usados por el sistema, y por una aplicación móvil que recibe los datos del microcontrolador por BLE.
 
 ## Estructura
-La raiz del proyecto dispone de dos directorios:
-- MobileApp: Contiene el codigo de la aplicación móvil
-- Projects: Contiene el codigo final del microcontrolador asi como otros proyectos relevantes que se han creado a lo largo del trabajo como pasos intermedios para el codigo final. Concretamente contiene los siguientes proyectos:
+La raíz del proyecto dispone de dos directorios:
+- MobileApp: Contiene el código de la aplicación móvil.
+- Projects: Contiene el código final del microcontrolador asi como otros proyectos relevantes que se han creado a lo largo del trabajo como pasos intermedios para la versión final. Concretamente contiene los siguientes proyectos:
     - TFG: Es la versión final del código para el microcontrolador.
     - Mockup: Proyecto que simula los datos de los sensores y los manda por BLE, útil para probar la comunicación y la app sin necesidad de tener los sensores y la bicicleta.
     - Accelerometer Sensor: Código de prueba del MPU6050.
